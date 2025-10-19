@@ -1,0 +1,8 @@
+phonenumbers
+requests
+emoji
+pyttsx3
+
+
+
+
